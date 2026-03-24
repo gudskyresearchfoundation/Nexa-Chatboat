@@ -1,0 +1,28 @@
+# 🔐 Environment (IMPORTANT)
+.env
+
+# 🔹 Models / large files
+models/
+llama.cpp/
+*.gguf
+
+# 🔹 Python cache
+__pycache__/
+*.pyc
+
+# 🔹 Lightning
+.lightning_studio/
+
+# 🔹 Streamlit
+.streamlit/
+
+# 🔹 IDE
+.vscode/
+.idea/
+
+# 🔹 Virtual env
+venv/
+
+# 🔹 OS junk
+.DS_Store
+Thumbs.db
