@@ -62,3 +62,11 @@ Edit users in `src/backend/auth.py`.
 | `MEMORY_WINDOW`  | `10`                      | Conversation window   |
 | `TEMPERATURE`    | `0.7`                     | Sampling temperature  |
 | `PORT`           | `8501`                    | Streamlit port        |
+
+## 🚀 Run in Lightning.ai
+
+git clone https://github.com/gudskyresearchfoundation/Nexa-Chatboat.git
+cd Nexa-Chatboat/llama_ai
+bash setup.sh
+bash run.sh
+
